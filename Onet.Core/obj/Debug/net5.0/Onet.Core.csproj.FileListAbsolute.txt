@@ -1,0 +1,15 @@
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\bin\Debug\net5.0\Onet.Core.deps.json
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\bin\Debug\net5.0\Onet.Core.runtimeconfig.json
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\bin\Debug\net5.0\Onet.Core.runtimeconfig.dev.json
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\bin\Debug\net5.0\Onet.Core.dll
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\bin\Debug\net5.0\ref\Onet.Core.dll
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\bin\Debug\net5.0\Onet.Core.pdb
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\obj\Debug\net5.0\Onet.Core.csproj.AssemblyReference.cache
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\obj\Debug\net5.0\Onet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\obj\Debug\net5.0\Onet.Core.AssemblyInfoInputs.cache
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\obj\Debug\net5.0\Onet.Core.AssemblyInfo.cs
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\obj\Debug\net5.0\Onet.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\obj\Debug\net5.0\Onet.Core.dll
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\obj\Debug\net5.0\ref\Onet.Core.dll
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\obj\Debug\net5.0\Onet.Core.pdb
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Core\obj\Debug\net5.0\Onet.Core.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\bin\Debug\net5.0\Onet.Cliente.deps.json
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\bin\Debug\net5.0\Onet.Cliente.dll
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\bin\Debug\net5.0\ref\Onet.Cliente.dll
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\bin\Debug\net5.0\Onet.Cliente.pdb
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\obj\Debug\net5.0\Onet.Cliente.csproj.AssemblyReference.cache
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\obj\Debug\net5.0\Onet.Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\obj\Debug\net5.0\Onet.Cliente.AssemblyInfoInputs.cache
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\obj\Debug\net5.0\Onet.Cliente.AssemblyInfo.cs
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\obj\Debug\net5.0\Onet.Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\obj\Debug\net5.0\Onet.Cliente.dll
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\obj\Debug\net5.0\ref\Onet.Cliente.dll
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\obj\Debug\net5.0\Onet.Cliente.pdb
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\bin\Debug\net5.0\Onet.Core.dll
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\bin\Debug\net5.0\Onet.Core.pdb
+C:\Users\Rubenz\source\repos\Onet.Web.Api\Cliente\obj\Debug\net5.0\Onet.Cliente.csproj.CopyComplete
