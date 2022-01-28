@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p5Q3itb7nXh6E5nRTYKt8fCzYDs7HACBGYT/zuN7ECi1BNnJl2hTtner0VGOK9MhUjuLdgwcObt/fjiJy6Crug==",
+  "dgSpecHash": "hBKNkJRpeKO3pJlncOXI6qIeOyu555XUwpJ4kaaxz1Kf6p83anLjh2UNB44bgHHJndoumKKYmgQY0XQfr7ZtBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rubenz\\source\\repos\\Onet.Web.Api\\Onet.Api\\Onet.Api.csproj",
+  "projectFilePath": "D:\\Proyectos\\Onet.Web.Api\\Onet.Api\\Onet.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rubenz\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Rubenz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

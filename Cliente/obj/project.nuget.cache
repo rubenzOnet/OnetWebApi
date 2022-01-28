@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gnW2T0kIDUn4cz9ALpAR67pVd8E9SYSRldL60KYPgswJfad+O8swsYW0kHykn5lvgGzxfzVfKz0YtujqyylQ4g==",
+  "dgSpecHash": "+eqOpJJtvwhJ148ftZ4TQjGHblkcgOyyhkKJX1+KqsGlarlmHkj7NjEcjLVmC2866PfTLMFw/U1vDm5sy8cKvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rubenz\\source\\repos\\Onet.Web.Api\\Cliente\\Onet.Cliente.csproj",
+  "projectFilePath": "D:\\Proyectos\\Onet.Web.Api\\Cliente\\Onet.Cliente.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rubenz\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Rubenz\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",

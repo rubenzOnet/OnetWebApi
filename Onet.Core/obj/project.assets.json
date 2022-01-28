@@ -7398,11 +7398,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rubenz\\source\\repos\\Onet.Web.Api\\Onet.Core\\Onet.Core.csproj",
+      "projectUniqueName": "D:\\Proyectos\\Onet.Web.Api\\Onet.Core\\Onet.Core.csproj",
       "projectName": "Onet.Core",
-      "projectPath": "C:\\Users\\Rubenz\\source\\repos\\Onet.Web.Api\\Onet.Core\\Onet.Core.csproj",
+      "projectPath": "D:\\Proyectos\\Onet.Web.Api\\Onet.Core\\Onet.Core.csproj",
       "packagesPath": "C:\\Users\\Rubenz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rubenz\\source\\repos\\Onet.Web.Api\\Onet.Core\\obj\\",
+      "outputPath": "D:\\Proyectos\\Onet.Web.Api\\Onet.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

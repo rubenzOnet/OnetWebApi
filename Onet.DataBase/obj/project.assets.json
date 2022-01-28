@@ -6167,11 +6167,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rubenz\\source\\repos\\Onet.Web.Api\\Onet.DataBase\\Onet.DataBase.csproj",
+      "projectUniqueName": "D:\\Proyectos\\Onet.Web.Api\\Onet.DataBase\\Onet.DataBase.csproj",
       "projectName": "Onet.DataBase",
-      "projectPath": "C:\\Users\\Rubenz\\source\\repos\\Onet.Web.Api\\Onet.DataBase\\Onet.DataBase.csproj",
+      "projectPath": "D:\\Proyectos\\Onet.Web.Api\\Onet.DataBase\\Onet.DataBase.csproj",
       "packagesPath": "C:\\Users\\Rubenz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rubenz\\source\\repos\\Onet.Web.Api\\Onet.DataBase\\obj\\",
+      "outputPath": "D:\\Proyectos\\Onet.Web.Api\\Onet.DataBase\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
