@@ -10,3 +10,15 @@ C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Infraestructure\obj\Debug\net5.0\
 C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Infraestructure\obj\Debug\net5.0\Onet.Infraestructure.dll
 C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Infraestructure\obj\Debug\net5.0\ref\Onet.Infraestructure.dll
 C:\Users\Rubenz\source\repos\Onet.Web.Api\Onet.Infraestructure\obj\Debug\net5.0\Onet.Infraestructure.pdb
+D:\Proyectos\Onet.Web.Api\Onet.Infraestructure\bin\Debug\net5.0\Onet.Infraestructure.deps.json
+D:\Proyectos\Onet.Web.Api\Onet.Infraestructure\bin\Debug\net5.0\Onet.Infraestructure.dll
+D:\Proyectos\Onet.Web.Api\Onet.Infraestructure\bin\Debug\net5.0\ref\Onet.Infraestructure.dll
+D:\Proyectos\Onet.Web.Api\Onet.Infraestructure\bin\Debug\net5.0\Onet.Infraestructure.pdb
+D:\Proyectos\Onet.Web.Api\Onet.Infraestructure\obj\Debug\net5.0\Onet.Infraestructure.csproj.AssemblyReference.cache
+D:\Proyectos\Onet.Web.Api\Onet.Infraestructure\obj\Debug\net5.0\Onet.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Onet.Web.Api\Onet.Infraestructure\obj\Debug\net5.0\Onet.Infraestructure.AssemblyInfoInputs.cache
+D:\Proyectos\Onet.Web.Api\Onet.Infraestructure\obj\Debug\net5.0\Onet.Infraestructure.AssemblyInfo.cs
+D:\Proyectos\Onet.Web.Api\Onet.Infraestructure\obj\Debug\net5.0\Onet.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\Onet.Web.Api\Onet.Infraestructure\obj\Debug\net5.0\Onet.Infraestructure.dll
+D:\Proyectos\Onet.Web.Api\Onet.Infraestructure\obj\Debug\net5.0\ref\Onet.Infraestructure.dll
+D:\Proyectos\Onet.Web.Api\Onet.Infraestructure\obj\Debug\net5.0\Onet.Infraestructure.pdb
